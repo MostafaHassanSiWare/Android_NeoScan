@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Scan_Android" />
+        <module name="Android_NeoScan" />
       </profile>
     </annotationProcessing>
   </component>
